@@ -1,4 +1,4 @@
-YYY Election Audit
+Election Audit
 The Coloroda Board of Elections is running an audit of one of its Congressional districts.  The firm selected ran this project as a pilot attempt at automating election tabulation.  Presented with a data file with rows listing the candidate selected and the county in which each ballot cast was cast, we wrote a python script that tallied the votes, sorted them by candidate and evaluated those results.  The same script also performed the actions to see how the votes were distributed across counties. 
 
 Election-Audit Results: 
